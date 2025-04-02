@@ -1,9 +1,9 @@
 ---
-title: How-to Guide landing page template
-type: template
-contributors: 
-description: Add a plain text description here.
-affiliations: 
+title: Using GPU Accelerated Structural Biology Programs on Pawsey's Setonix AMD System
+type: How-to guide
+contributors: Sarah Beecroft
+description: How to use structural biology software on Setonix
+affiliations: Pawsey Supercomputing Research Centre
 sidebar: false
 ---
 
