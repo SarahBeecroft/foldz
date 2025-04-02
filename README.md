@@ -1,6 +1,13 @@
+---
+title: Structural Biology Software on Pawsey's Setonix
+toc: false
+---
+
 ## About
 
-Please see the [How-to Guide for the template](https://australianbiocommons.github.io/how-to-guide-template/) for more information on how to get started.  
+Add general information about the guide you are creating to the About section.
+Add citation instructions to the Please cite this guide as follows section.
+Add acknowledgments and references to the Acknowledgements and References sections, respectively.
 
 
 ## Acknowledgements for the guides
