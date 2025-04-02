@@ -1,9 +1,9 @@
 ---
-title: About page template
-type: template
-contributors: 
-description: Add a plain text description here.
-affiliations:
+title: Structural Biology Software on Pawsey's Setonix
+type: How-to guide
+contributors: Sarah Beecroft, Uwe Winter, Johan Gustafsson
+description: How to use various protein folding tools on Pawsey's AMD GPUs
+affiliations: Pawsey Supercomputing Research Centre, Australian BioCommons, University of Melbourne
 sidebar: false
 ---
 
