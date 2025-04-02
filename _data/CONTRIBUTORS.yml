@@ -16,14 +16,18 @@ Sarah Beecroft:
     git: SarahBeecroft
     email: sarah.beecroft@csiro.au
     orcid: 0000-0002-3935-2279
-    role: lead
+    role: author
     affiliation: Pawsey Supercomputing Research Centre
 
+Uwe Winter:
+    email: uwe@biocommons.org.au
+    role: author
+    affiliation: Australian BioCommons / University of Melbourne
+    
 Johan Gustafsson:
     git: supernord
     email: johan@biocommons.org.au
     orcid: 0000-0002-2977-5032
     role: editor
     affiliation: Australian BioCommons / University of Melbourne
-
 
