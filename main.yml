@@ -1,0 +1,12 @@
+title: Structural Biology Tools on Pawsey's Setonix
+title_url: /
+subitems:
+  - title: Overview
+    url: /index
+  - title: Alphafold2
+    url: /alphafold2_setonix
+  - title: ColabFold
+    url: /colabfold_setonix
+  - title: ProteinMPNN
+    url: /ProteinMPNN_setonix
+    
